@@ -22,6 +22,7 @@ I am just a college student trying to get a bachelor's degree in computer progra
 <img src="https://i.redd.it/gc2m1tdq22w81.jpg" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TwigJL&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{TwigJL}/count.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
