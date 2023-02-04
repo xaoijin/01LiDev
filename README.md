@@ -19,7 +19,7 @@ I am just a college student trying to get a bachelor's degree in computer progra
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBasics_Programming%2Fcomments%2Fud16qv%2Fprogramming_memes%2F&psig=AOvVaw0ewRTYiBXdjHFshkcEIsUw&ust=1675635295878000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCGmofy_PwCFQAAAAAdAAAAABAw)" width="512px"/>
+<img src="https://i.redd.it/gc2m1tdq22w81.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TwigJL&icon=0&color=0)](https://visitcount.itsvg.in)
