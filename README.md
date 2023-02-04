@@ -23,7 +23,6 @@ I am just a college student trying to get a bachelor's degree in computer progra
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{TwigJL}/count.svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=twigjl&label=Profile%20views&color=0e75b6&style=flat" alt="twigjl" /> </p>
 
-
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=twigjl.visitor-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
