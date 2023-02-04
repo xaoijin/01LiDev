@@ -22,7 +22,9 @@ I am just a college student trying to get a bachelor's degree in computer progra
 <img src="https://i.redd.it/gc2m1tdq22w81.jpg" width="512px"/>
 
 ---
-![Visitors](https://api.visitorbadge.io/api/visitors?path=twigjl&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=twigjl&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat&labelStyle=none)
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
