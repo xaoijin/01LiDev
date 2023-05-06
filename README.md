@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am just a college student trying to get a bachelor's degree in computer programming and information systems<br>Personally I love coding projects revolving around mobile apps and game development
+I am just a college student pursuing a bachelor's degree in computer programming and information systems
+<br>Personally I love coding projects revolving around mobile apps and game development, check out below for some personally made myself!
 
 
 ## 🌐 Socials:
