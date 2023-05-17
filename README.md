@@ -31,8 +31,12 @@ I am just a college student pursuing a bachelor's degree in computer programming
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 # 📊 GitHub Stats:
-![TwigJL's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwigJL&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=twigjl&theme=sunset-gradient&type=png)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwigJL&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![TwigJL's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwigJL&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=twigjl&theme=sunset-gradient&type=png)](https://git.io/streak-stats)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwigJL&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TwigJL&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
