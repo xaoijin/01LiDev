@@ -1,7 +1,7 @@
 ---
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=twigjl&label=You%20are%20Visitor%20%23&labelColor=%2337d67a&countColor=%23d9e3f0&style=flat&labelStyle=none)
 # 💫 About Me:
-Fullstack developer who likes to try every field out there and use the latest technology/techniques,moving down the list of what to develop next,one project at a time.
+Software developer who likes to try every field out there and use the latest technology/techniques,moving down the list of what to develop next,one project at a time.
 <br>Personally I love coding projects revolving around mobile apps and game development, check out below for some personally made myself!
 <br>Currently working on a MMO Video Game
 
