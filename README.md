@@ -3,7 +3,7 @@
 # 💫 About Me:
 Software developer who likes to try every field out there and use the latest technology/techniques,moving down the list of what to develop next,one project at a time.
 <br>Personally I love coding projects revolving around mobile apps and game development, check out below for some personally made myself!
-<br>Currently working on a MMO Video Game
+
 
 
 ## 🌐 Socials:
