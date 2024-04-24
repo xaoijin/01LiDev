@@ -4,11 +4,6 @@
 Software developer who likes to try every field out there and use the latest technology/techniques,moving down the list of what to develop next,one project at a time.
 <br>Personally I love coding projects revolving around mobile apps and game development, check out below for some personally made myself!
 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jldevelops/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jldevelops) 
-
 # 💻 Tech Stack:
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
